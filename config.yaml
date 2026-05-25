@@ -18,7 +18,7 @@ data:
   max_target_length: 256
 
 model:
-  base_model: "facebook/bart-large-cnn"
+  base_model: "facebook/bart-base"
   output_dir: "models/checkpoints"
   final_dir: "models/final"
 
